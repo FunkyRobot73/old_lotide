@@ -10,3 +10,4 @@ const assertEqual = function(actual, expected) {
 assertEqual("Lighthouse Labs", "Bootcamp");
 assertEqual(1, 1);
 assertEqual("jimmy", "jimmy");
+assertEqual("77", "77");
